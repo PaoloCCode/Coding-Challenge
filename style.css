@@ -1,0 +1,73 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 1% 19% 4%;
+  font-family: 'Outfit', sans-serif;
+}
+
+.black {
+background-color: RGBA(0,0,0,0.5);
+padding: 9%;
+border-radius: 10px;
+}
+
+nav,header {
+  text-align: center;
+}
+
+img {
+  width: 25%;
+}
+
+h1 {
+  color: limegreen;
+  font-size: 27px;
+  margin-bottom: 5px;
+}
+
+.menùbar {
+  background-color: rgb(0, 221, 0);
+  padding: 8px;
+}
+
+button {
+  font-size: 11px;
+}
+
+h3 {
+  display: inline-block;
+  color: white;
+  margin-bottom:inherit;
+}
+
+p {
+  color: white;
+  margin-bottom: inherit;
+  margin-top: inherit;
+  font-size: 13px;
+}
+
+.via {
+  margin: 4px 0px;
+}
+
+.bar {
+  margin-top: 2px;
+  border-radius: 5px;
+}
+
+.orange {
+  border: 12px solid sandybrown;
+  margin-right: 60%;
+}
+
+.green {
+  border: 12px solid limegreen;
+  margin-right: 40%;
+}
+
+.red {
+  border: 12px solid indianred;
+  margin-right: 85%;
+}
